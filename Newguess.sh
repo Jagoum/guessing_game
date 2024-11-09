@@ -40,7 +40,7 @@ generatenumber() {
 	num=$(( $RANDOM % $range + 1))
 }
 playgame(){
-	echo -e "\a \n $num \n\n"
+####	echo -e "\a \n $num \n\n"
  read -p  " Guess a number in the range : " guess
 		verify	
 }
