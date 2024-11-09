@@ -27,7 +27,7 @@ setlevel() {
 	    	;;
 		4)
 			echo -e "Highest score : $high "
-			return
+			exit 1
 		;;
 		*)
 			echo "Invalid option take ctrl+C to exit"
