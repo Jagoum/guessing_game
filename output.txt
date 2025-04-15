@@ -1,0 +1,10 @@
+Guess the number:
+You missed! The random number is lesser than 12
+Please try again!
+Guess the number:
+You missed! The random number is lesser than 15
+Please try again!
+Guess the number:
+You missed! The random number is lesser than 10
+Please try again!
+You lose, the number was 2
